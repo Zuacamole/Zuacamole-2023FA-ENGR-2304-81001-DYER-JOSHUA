@@ -17,7 +17,7 @@ void setup() {
   lcd.begin(16, 2);
   
   // Print a message to the LCD.
-  lcd.print("hello, world!");
+  lcd.print("hello, ENGR 2304!");
 }
 
 void loop() {
